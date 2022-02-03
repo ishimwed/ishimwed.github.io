@@ -1,7 +1,7 @@
 ---
 title: "Dynaplex: Analyzing Program Complexity using Dynamically Inferred Recurrence Relations"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/oopsla21
 excerpt: 'Discovering asymptotic worst case complexity using recurrence relations'
 date: 10/2021
 venue: 'Proceedings of the ACM on Programming Languages'
