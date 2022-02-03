@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "Dynaplex: Analyzing Program Complexity using Dynamically Inferred Recurrence Relations"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'In this work, we introduce a new dynamic approach for
+inferring the asymptotic complexity bounds of recursive programs. From program execution traces, we learn
+recurrence relations and solve them using pattern matching to obtain closed-form solutions representing the
+complexity bounds of the program. This approach allows us to efficiently infer simple linear recurrence relations
+that represent nontrivial, potentially nonlinear polynomial and non-polynomial, complexity bounds'
+date: 10/2021
+venue: 'Proceedings of the ACM on Programming Languages'
+paperurl: 'https://nguyenthanhvuh.github.io/pubs/ishimwe2021dynaplex.pdf'
+citation: 'Didier Ishimwe, KimHao Nguyen, and ThanhVu Nguyen. 2021. Dynaplex: analyzing program complexity using dynamically inferred recurrence relations. <i>Proc. ACM Program. Lang. 5, OOPSLA, Article 138 (October 2021), 23 pages</i>. DOI:https://doi.org/10.1145/3485515'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://nguyenthanhvuh.github.io/pubs/ishimwe2021dynaplex.pdf)
