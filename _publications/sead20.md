@@ -12,4 +12,3 @@ In this work, we propose a new dynamic analysis approach for learning recurrence
 
 [Download paper here](https://nguyenthanhvuh.github.io/pubs/nguyen2020using.pdf)
 
-Recommended citation: ThanhVu Nguyen, Didier Ishimwe, Alexey Malyshev, Timos Antonopoulos, and Quoc-Sang Phan. 2020. Using dynamically inferred invariants to analyze program runtime complexity. <i>Proceedings of the 3rd ACM SIGSOFT International Workshop on Software Security from Design to Deployment. Association for Computing Machinery, New York, NY, USA, 11–14</i>.
