@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Didier Ishimwe"
 title_separator          : "-"
 name                     : &name "Didier Ishimwe"
-description              : &description "PhD student at George Mason University's School of Computing"
+description              : &description "PhD student at George Mason University [School of Computing](https://computing.gmu.edu/)"
 url                      : https://ishimwed.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ishimwed/ishimwed.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Didier Ishimwe"
   avatar           : "profile.png"
-  bio              : "PhD student at George Mason University's School of Computing"
+  bio              : "PhD student at George Mason University [School of Computing](https://computing.gmu.edu/)"
   location         : "Fairfax, VA"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/didier-ishimwe-85b127147/"
+  linkedin         : "didier-ishimwe-85b127147/"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -191,17 +191,17 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+#   # _posts
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       layout: single
+#       author_profile: true
+#       read_time: true
+#       comments: true
+#       share: true
+#       related: true
   # _pages
   - scope:
       path: ""
@@ -210,14 +210,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+#   - scope:
+#       path: ""
+#       type: teaching
+#     values:
+#       layout: single
+#       author_profile: true
+#       share: true
+#       comments: true
   # _publications
   - scope:
       path: ""
@@ -228,14 +228,14 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+#   - scope:
+#       path: ""
+#       type: portfolio
+#     values:
+#       layout: single
+#       author_profile: true
+#       share: true
+#       comment: true
   # _talks
   - scope:
       path: ""
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
