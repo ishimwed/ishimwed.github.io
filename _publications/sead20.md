@@ -3,7 +3,7 @@ title: "Using Dynamically Inferred Invariants to Analyze Program Runtime Complex
 collection: publications
 permalink: /publication/sead20
 excerpt: 'In this paper, we explore the use of recurrence relation in computing runtime complexity'
-date: 11/20
+date: 2020
 venue: 'International Workshop on Software Security from Design to Deployment'
 paperurl: 
 citation: 'ThanhVu Nguyen, Didier Ishimwe, Alexey Malyshev, Timos Antonopoulos, and Quoc-Sang Phan. 2020. Using dynamically inferred invariants to analyze program runtime complexity. <i>Proceedings of the 3rd ACM SIGSOFT International Workshop on Software Security from Design to Deployment. Association for Computing Machinery, New York, NY, USA, 11–14</i>.'
