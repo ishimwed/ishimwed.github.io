@@ -3,10 +3,10 @@ title: "Dynaplex: Analyzing Program Complexity using Dynamically Inferred Recurr
 collection: publications
 permalink: /publication/oopsla21
 excerpt: 'In this paper we infer asymptotic worst case complexity using recurrence relations'
-date: 10/2021
+date: 2021-10-20
 venue: 'Proceedings of the ACM on Programming Languages'
 paperurl: 
-citation: 'Didier Ishimwe, KimHao Nguyen, and ThanhVu Nguyen. 2021. Dynaplex: analyzing program complexity using dynamically inferred recurrence relations. <i>Proc. ACM Program. Lang. 5, OOPSLA, Article 138 (October 2021), 23 pages</i>. DOI:https://doi.org/10.1145/3485515'
+citation: 'Didier Ishimwe, KimHao Nguyen, and ThanhVu Nguyen. 2021. Dynaplex: analyzing program complexity using dynamically inferred recurrence relations. <i>Proc. ACM Program. Lang. 5, OOPSLA, Article 138 (October 2021), 23 pages</i>.'
 ---
 In this work, we introduce a new dynamic approach for
 inferring the asymptotic complexity bounds of recursive programs. From program execution traces, we learn
