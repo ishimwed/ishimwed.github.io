@@ -36,6 +36,7 @@ Relevant Skills & Coursework
 
 Honors & Awards
 ======
+  * Graduate Research Assistantship at George Mason University
   * Graduate Research Assistantship at University of Nebraska-Lincoln
   * Graduate Teaching Assistantship at University of Nebraska-Lincoln
   * Purdue Summer Undergraduate Research Fellowship
