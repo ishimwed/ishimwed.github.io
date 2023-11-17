@@ -1,7 +1,7 @@
 ---
 title: "Dynaplex: Analyzing Program Complexity using Dynamically Inferred Recurrence Relations"
 collection: talks
-type: "Talk"
+type: "Conference"
 permalink: /talks/oopsla21
 venue: "SPLASH 2021"
 date: 2021-10-21
