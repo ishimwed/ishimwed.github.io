@@ -15,6 +15,10 @@ Education
 
 Work Experience
 ======
+### George Mason University: Research Assistant
+  * *Automated Resource Analysis*: Designed and implemented algorithms for user-defined resource analysis (ex: number of API hits in a program).
+  * *Performance Testing*: Working performance testing by using reinforcement learning and Large Language Models to generate pathological inputs for developers to debug worst-case execution of programs
+
 ### University of Nebraska Lincoln: Research Assistant
   * *Automated Complexity Analysis*: Designed and implemented an algorithm to analyze worst-case running time complexity of recursive programs. This algorithm can be used for profiling systems
   * *Predictive Failure Avoidance*: Abstracting inputs that leads to program failures (ex: assertion violations) and automatically repairing those inputs so that the program runs successfully with acceptable output
