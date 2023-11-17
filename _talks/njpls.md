@@ -1,7 +1,7 @@
 ---
 title: "Inferring Complexity Bounds from Recurrence Relations"
 collection: talks
-type: "Talk"
+type: "Seminar"
 permalink: /talks/njpls
 venue: "University of Pennsylvania"
 date: 2023-5-19
