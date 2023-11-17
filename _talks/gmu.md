@@ -1,7 +1,7 @@
 ---
 title: "Invariant/Specification Discovery using Dynamic and Symbolic Analyses"
 collection: talks
-type: "Talk"
+type: "Seminar"
 permalink: /talks/gmu
 venue: "George Mason University"
 date: 2021-10-28
