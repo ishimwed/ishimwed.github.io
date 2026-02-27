@@ -16,7 +16,7 @@ Education
 Work Experience
 ======
 
-### Industry
+## Industry
 **Experian: Machine Learning Engineer**
 * Developing internal LLM-based tools designed to support the Experian AI Assistant.
 
@@ -34,8 +34,8 @@ Work Experience
 * *NanoCluster Evolution Prediction*: Built a simulation tool to visualize and predict the size evolution of irradiation-induced nanoclusters in iron-based materials.
 
 ### Teaching
-**George Mason University: Adjunct Professor**
-*Courses*: Formal Methods & Models
+**George Mason University: Adjunct Professor**<br>
+*Courses*: Formal Methods & Models<br>
 *Responsibilities include:*
   * Designed and developed course content to align with university learning objectives.
   * Create quizzes, assignments and exams tailored to reinforce key learning goals.
@@ -60,7 +60,7 @@ Relevant Skills
 ======
 * **Preferred Languages**: Python, C, OCaml
 * **Technical Skills**: Git, Bash, Docker, LLMs, Machine Learning
-**Leadership & Communication**: Research Publication & Presentation, Technical Event (Seminar) Coordination, Academic Mentorship.
+* **Leadership & Communication**: Research Publication & Presentation, Technical Event (Seminar) Coordination, Academic Mentorship.
 
 Professional Leadership
 ======
