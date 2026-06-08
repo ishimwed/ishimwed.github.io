@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Didier Ishimwe"
+  name             : "Didier Ishimwe, PhD"
   avatar           : "profile.png"
-  bio              : "PhD student at George Mason University School of Computing"
-  location         : "Fairfax, VA"
-  employer         :
+  bio              : "Machine Learning Engineer"
+  location         : 
+  employer         : Experian
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=rH4Ja0kAAAAJ&hl=en"
-  email            : "dishimwe@gmu.edu"
+  email            : "ishimwedi@gmail.com"
   researchgate     :
   uri              :
   bitbucket        :
