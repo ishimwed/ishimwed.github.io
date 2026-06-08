@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Didier Ishimwe"
+title                    : "Didier Ishimwe, PhD"
 title_separator          : "-"
-name                     : &name "Didier Ishimwe"
-description              : &description "PhD student at George Mason University School of Computing"
+name                     : &name "Didier Ishimwe, PhD"
+description              : &description "Machine Learning Engineer at Experian"
 url                      : https://ishimwed.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ishimwed/ishimwed.github.io"
