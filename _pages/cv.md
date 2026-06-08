@@ -9,19 +9,19 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. in Computer Science**, George Mason University, Fairfax, VA, 2026
-* **M.S. in Computer Science**, University of Nebraska, Lincoln, NE, 2021
-* **B.A. in Computer Science**, William Penn University, Oskaloosa, IA, 2018
+* **Ph.D. in Computer Science**, George Mason University
+* **M.S. in Computer Science**, University of Nebraska-Lincoln
+* **B.A. in Computer Science**, William Penn University
 
 Work Experience
 ======
 
-## Industry
 **Experian: Machine Learning Engineer**
-* Developing internal LLM-based tools designed to support the Experian AI Assistant.
+* Engineered an end-to-end data ingestion pipeline to parse, chunk, and index heterogeneous corporate documents (PDF, XLSX, DOCX, PPTX), transforming unstructured enterprise data into highly searchable vector indices.
+* Built an autonomous AI agent to facilitate natural language querying over company data, directly improving data scientist productivity and reducing time-to-insight.
+* Drove latency reductions for core AI assistant features by engineering optimized prompt structures, dynamic token management, and intelligent caching layers.
 
-### Research
-**George Mason University: Research Assistant (2022 – Present)**
+**George Mason University: Software Engineer (2022 – 2026)**
 * *Input Generation*: Leveraging Large Language Models (LLMs) to generate pathological inputs for performance testing and debugging to help developers identify worst-case execution scenarios.
 * *Complexity Analysis*: Designed and implemented an algorithm to analyze worst-case running time complexity of recursive programs to help developers evaluate performance bottlenecks regardless of programming language.
 
@@ -59,7 +59,7 @@ Publications
 Relevant Skills
 ======
 * **Preferred Languages**: Python, C, OCaml
-* **Technical Skills**: Git, Bash, Docker, LLMs, Machine Learning
+* **Technical Skills**: Git, Bash, Docker, LLMs, Jira
 * **Leadership & Communication**: Research Publication & Presentation, Technical Event (Seminar) Coordination, Academic Mentorship.
 
 Professional Leadership
